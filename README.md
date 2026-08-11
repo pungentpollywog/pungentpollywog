@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Chris!
-- 👀 I’m interested in UI/UX Design, immersive web development, 3D modeling, ThreeJS, AR, React, Angular, Vue, and Svelte.
-- 💞️ I’m willing to collaborate on anything related to Software Design/ Architecture/ Engineering. 
+- 👋 Hi, I’m Chris! 
+- 👀 I'm interested in building full stack apps, AI integrations, UI/UX Design, immersive web apps, 3D modeling, ThreeJS, AR, React, Angular, Vue, Svelte, and vanilla JS web components.
+- 💞️ I’d love to collaborate on anything related to Software Design/ Architecture/ Engineering. 
 - 📫 How to reach me: https://portfolio-rektnoobs-projects.vercel.app/contact
 
 <!---
